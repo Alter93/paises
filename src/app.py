@@ -3,8 +3,8 @@ from dash import Dash, html, dash_table, dcc, callback, Output, Input
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from cc import ISO3166
-from plots import get_map, get_line_chart
+from .cc import ISO3166
+from .plots import get_map, get_line_chart
 
 # Incorporate data
 inmigracion = pd.read_csv("src/datos/inmigracion.tsv", sep=r'\,|\t', engine='python', dtype=str)
