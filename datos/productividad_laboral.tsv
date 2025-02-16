@@ -1,0 +1,39 @@
+freq,unit,na_item,geo	2015 	2016 	2017 	2018 	2019 	2020 	2021 	2022 	2023 	2024 
+A,PCH_PRE,RLPR_PER,AT	0.7 	0.8 	0.6 	0.7 	0.6 	-4.8 	2.7 	2.6 	-1.8 	: 
+A,PCH_PRE,RLPR_PER,BE	0.6 	-0.1 	0.0 	0.4 	0.8 	-4.7 	4.4 	2.3 	0.5 p	: 
+A,PCH_PRE,RLPR_PER,BG	3.0 	2.5 	0.9 	2.7 	5.4 	-1.5 	7.7 	3.0 	0.8 	: 
+A,PCH_PRE,RLPR_PER,CH	0.1 	0.7 	0.4 	1.8 	0.4 	-1.6 	4.9 	1.5 p	-1.5 p	: 
+A,PCH_PRE,RLPR_PER,CY	1.8 	1.8 	0.3 	0.3 	1.0 	-2.9 	8.2 	3.2 	1.2 p	: 
+A,PCH_PRE,RLPR_PER,CZ	3.5 	1.5 	3.8 	1.7 	3.7 	-3.1 	3.0 	1.8 	-1.1 	: 
+A,PCH_PRE,RLPR_PER,DE	0.8 	1.0 	1.3 	-0.2 	0.1 	-3.4 	3.5 p	0.0 p	-1.0 p	-0.4 p
+A,PCH_PRE,RLPR_PER,DK	0.6 	1.4 	1.5 	0.3 	0.3 	-0.7 	5.0 	-2.4 	1.1 	: 
+A,PCH_PRE,RLPR_PER,EA	1.1 	0.4 	1.0 	0.1 	0.3 	-4.6 	4.7 	1.1 	: 	: 
+A,PCH_PRE,RLPR_PER,EA12	1.2 	0.4 	1.0 	0.1 	0.2 	-4.7 	4.6 	1.1 	-1.1 	: 
+A,PCH_PRE,RLPR_PER,EA19	1.2 	0.4 	1.0 	0.1 	0.3 	-4.6 	4.7 	1.1 	-1.0 	: 
+A,PCH_PRE,RLPR_PER,EA20	1.2 	0.4 	1.0 	0.1 	0.3 	-4.6 	4.7 	1.1 	-1.0 	: 
+A,PCH_PRE,RLPR_PER,EE	-1.0 	2.8 	2.9 	2.8 	2.4 	-0.2 	7.0 	-4.3 	-6.0 	: 
+A,PCH_PRE,RLPR_PER,EL	2.8 	-3.3 	2.0 	-2.4 	0.1 	-6.8 	3.4 	3.2 p	1.1 p	: 
+A,PCH_PRE,RLPR_PER,ES	1.1 	0.8 	0.3 	0.2 	-0.7 	-6.8 	4.0 	2.6 p	-0.3 p	1.0 p
+A,PCH_PRE,RLPR_PER,EU27_2020	1.4 	0.6 	1.2 	0.6 	0.6 	-4.3 	4.7 	1.2 	-0.7 	: 
+A,PCH_PRE,RLPR_PER,FI	0.1 	2.0 	2.7 	-1.4 	-0.1 	-0.2 	0.4 	-2.7 	-2.6 	: 
+A,PCH_PRE,RLPR_PER,FR	0.8 	0.1 	0.9 	0.6 	0.8 	-7.4 	4.2 	0.2 p	-0.1 p	: 
+A,PCH_PRE,RLPR_PER,HR	1.1 	3.2 	0.8 	0.3 	4.2 b	-7.4 	11.3 	5.0 	1.0 p	: 
+A,PCH_PRE,RLPR_PER,HU	1.2 	-0.8 	2.3 	3.6 	4.0 	-3.6 	5.6 	2.6 	-1.1 p	: 
+A,PCH_PRE,RLPR_PER,IE	20.4 	-2.5 	6.7 	4.4 	1.8 	9.9 	9.1 	1.6 	-8.7 	: 
+A,PCH_PRE,RLPR_PER,IS	1.5 p	1.7 p	0.0 p	1.8 p	2.0 p	-2.3 p	3.8 p	1.8 p	0.7 p	: 
+A,PCH_PRE,RLPR_PER,IT	0.2 	-0.2 	0.4 	-0.2 	-0.2 	-7.0 	7.9 	2.7 	-1.1 	: 
+A,PCH_PRE,RLPR_PER,LT	1.4 	0.4 	5.4 	3.5 	4.1 	1.6 	5.0 	-2.3 	-1.1 	: 
+A,PCH_PRE,RLPR_PER,LU	-0.3 	1.9 	-2.1 	-2.3 	-0.6 	-2.6 	4.2 	-1.9 	-3.2 	: 
+A,PCH_PRE,RLPR_PER,LV	2.3 	2.9 	3.4 	2.2 	-1.3 	-2.8 	8.3 	1.6 	1.6 	: 
+A,PCH_PRE,RLPR_PER,MK	2.0 	1.3 	-1.8 	2.8 	1.7 	2.4 	2.0 	9.6 	2.2 p	: 
+A,PCH_PRE,RLPR_PER,MT	5.3 	-1.6 	7.8 	0.3 	-1.9 	-6.1 	10.2 	-0.6 	0.2 	: 
+A,PCH_PRE,RLPR_PER,NL	1.3 	0.9 	0.4 	-0.4 	0.0 	-3.4 	4.5 	1.1 p	-1.5 p	: 
+A,PCH_PRE,RLPR_PER,NO	1.5 	0.9 	1.3 	-0.8 	-0.4 	0.3 	2.7 	-0.7 	-0.8 	: 
+A,PCH_PRE,RLPR_PER,PL	2.9 	2.2 	3.8 	5.7 	2.1 b	-2.2 	3.9 	4.1 	0.0 	: 
+A,PCH_PRE,RLPR_PER,PT	0.1 	0.2 	0.0 	0.5 	1.9 	-6.3 	4.1 	3.1 	1.5 e	: 
+A,PCH_PRE,RLPR_PER,RO	4.5 	4.0 	5.7 	6.0 	3.8 	-1.7 	4.8 	3.2 	4.0 p	: 
+A,PCH_PRE,RLPR_PER,RS	0.6 	2.3 	1.1 	3.2 	4.4 	-0.1 	6.8 	2.6 p	3.5 p	: 
+A,PCH_PRE,RLPR_PER,SE	2.9 	0.3 	-0.7 	0.2 	1.9 	-0.7 	4.6 	-2.0 	-1.4 	: 
+A,PCH_PRE,RLPR_PER,SI	1.1 	1.2 	2.2 	1.2 	1.0 	-3.4 	7.0 	-0.2 	0.5 	: 
+A,PCH_PRE,RLPR_PER,SK	3.1 	-0.4 	0.7 	2.0 	1.2 	-0.7 	6.3 	-1.3 	1.1 	: 
+A,PCH_PRE,RLPR_PER,XK	: @C	: @C	: @C	: @C	: @C	: 	: 	: 	: 	: 
