@@ -7,14 +7,14 @@ from cc import ISO3166
 from plots import get_map, get_line_chart
 
 # Incorporate data
-inmigracion = pd.read_csv("datos/inmigracion.tsv", sep=r'\,|\t', engine='python', dtype=str)
-poblacion = pd.read_csv("datos/population.tsv", sep=r'\,|\t', engine='python', dtype=str)
-gdp_per_capita = pd.read_csv("datos/gdp_per_capita.tsv", sep=r'\,|\t', engine='python', dtype=str)
-purchase_power = pd.read_csv("datos/purchase_power.tsv", sep=r'\,|\t', engine='python', dtype=str)
-new_residence = pd.read_csv("datos/new_residence.tsv", sep=r'\,|\t', engine='python', dtype=str)
-desempleo_miles = pd.read_csv("datos/desempleo_miles.tsv", sep=r'\,|\t', engine='python', dtype=str)
-nacidos_extranjero = pd.read_csv("datos/nacidos_extranjero.tsv", sep=r'\,|\t', engine='python', dtype=str)
-balance_remesas = pd.read_csv("datos/balance_remesas.tsv", sep=r'\,|\t', engine='python', dtype=str)
+inmigracion = pd.read_csv("src/datos/inmigracion.tsv", sep=r'\,|\t', engine='python', dtype=str)
+poblacion = pd.read_csv("src/datos/population.tsv", sep=r'\,|\t', engine='python', dtype=str)
+gdp_per_capita = pd.read_csv("src/datos/gdp_per_capita.tsv", sep=r'\,|\t', engine='python', dtype=str)
+purchase_power = pd.read_csv("src/datos/purchase_power.tsv", sep=r'\,|\t', engine='python', dtype=str)
+new_residence = pd.read_csv("src/datos/new_residence.tsv", sep=r'\,|\t', engine='python', dtype=str)
+desempleo_miles = pd.read_csv("src/datos/desempleo_miles.tsv", sep=r'\,|\t', engine='python', dtype=str)
+nacidos_extranjero = pd.read_csv("src/datos/nacidos_extranjero.tsv", sep=r'\,|\t', engine='python', dtype=str)
+balance_remesas = pd.read_csv("src/datos/balance_remesas.tsv", sep=r'\,|\t', engine='python', dtype=str)
 
 datasets = { 
     "inmigracion": inmigracion,
