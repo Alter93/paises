@@ -53,6 +53,8 @@ app = Dash(
     __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}],
 )
 
+server = app.server
+
 economia_options = [
     {"value": "gdp_per_capita", "label": "PIB per cápita"},
     {"value": "purchase_power", "label": "Poder adquisitivo"},
